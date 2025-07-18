@@ -65,7 +65,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhiyuan Su. I am currently a **senior** undergraduate at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I was an exchange student at [University of California, Davis](https://www.ucdavis.edu/) (2025.01 -- 2025.03). Now I am also a visiting research student at [Dalhousie University](https://www.dal.ca/) (2025.07 -- 2025.10), co-sponsored by [Mitacs, Canada](https://www.mitacs.ca/) and [China Scholarship Council](https://www.csc.edu.cn/).
+Hi, I am Chengyuan Ma. I am currently a **senior** undergraduate at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I was an exchange student at [University of California, Davis](https://www.ucdavis.edu/) (2025.01 -- 2025.03). Now I am also a visiting research student at [Dalhousie University](https://www.dal.ca/) (2025.07 -- 2025.10), co-sponsored by [Mitacs, Canada](https://www.mitacs.ca/) and [China Scholarship Council](https://www.csc.edu.cn/).
 
 My research interests focus on **deep reinforcement learning, online learning, continual learning, recommender system, and computational advertising**. Recently, I am focusing on:  
 (1) sequential bidding ranking algorithms;  
@@ -153,10 +153,11 @@ I love **music, literature, travel and badminton**. I am a **campus singer** at 
 
 
 <div class="logo-row">
-  <img src="../images/ruc_logo.png"      alt="">
-  <img src="../images/ucdavis_logo.png"  alt="">
-  <img src="../images/dal_logo.png"      alt="">
-  <img src="../images/mitacs_logo.png"      alt="">
+  <img src="../images/csu_logo.png"      alt="">
+  <img src="../images/thu_logo.jpg"  alt="">
+  <img src="../images/oppo_logo.png"      alt="">
+  <img src="../images/tencent_logo.png"      alt="">
+  <img src="../images/ant_logo.png"      alt="">
 </div>
 
 
