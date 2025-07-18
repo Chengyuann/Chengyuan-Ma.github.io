@@ -87,9 +87,9 @@ My research aims to build **intelligent systems that are elegant in theory and e
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity](https://arxiv.org/pdf/2506.12389)
+[AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis](https://arxiv.org/pdf/2504.10309)
 
-**Zhiyuan Su**, Sunhao Dai, Xiao Zhang
+Dan Luo, **Chengyuan Ma**,(co-author) Weiqin Li, Jun Wang, Wei Chen, Zhiyong Wu
 
 - *Accepted at ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025 (Acceptance Rate: 18.4%)* <span class="rucred">Oral</span>
 
